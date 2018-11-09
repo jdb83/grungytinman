@@ -806,6 +806,6 @@ body	{
 	border-right:	0;
 	width:	auto;
 	}
-input[type=text] {box-sizing: border-box; height:300px;}
+input[type=text] {box-sizing: border-box; width: 200; height:100px;}
 
 /* end body box */
