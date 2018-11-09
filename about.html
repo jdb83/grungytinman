@@ -17,7 +17,7 @@ My practice muse.
 This is a practice page.
 
 <form>
-  <form action="https://formspree.io/jdb83@live.missouristate.edu" method="POST" />
+  <form name="gform" id="gform" enctype="text/plain" action=https://docs.google.com/forms/d/e/1FAIpQLScqZVD39ONzKdSB-HOziGFfiG6Vx7N4-cB90C9Ry9eVFgDUKA/viewform?usp=pp_url&entry.1122440592=A+little+tired&entry.2074115114=through+the+looking+glass" target="hidden_iframe" onsubmit="submitted=true;">
   How are you today?:<br>
   <input type="text" name="firstname"><br>
   Where would you like to be?<br>
@@ -26,7 +26,15 @@ This is a practice page.
   <input type="submit" value="Submit">
  
 </form>
-
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
+<script src="assets/js/jquery.min.js"></script>
+<script type="text/javascript">var submitted=false;</script>
+<script type="text/javascript">
+$('#gform').on('submit', function(e) {
+  $('#gform *').fadeOut(2000);
+  $('#gform').prepend('Your submission has been processed...');
+  });
+</script>
 </p>
 <address>
 Made 11/5/2018
