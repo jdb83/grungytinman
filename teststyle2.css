@@ -878,7 +878,7 @@ body	{
 	width:50%;
 }
 .form-style-3  input[type=submit],
-.form-style-3  input[type=button]{
+.form-style-3  input[type=submit]{
 	background: #3c443d;
 	border: 1px solid #3c443d;
 	padding: 5px 15px 5px 15px;
