@@ -830,9 +830,9 @@ body	{
 	border: 1px solid #FFD2D2;
 	padding: 20px;
 	background: #FFF4F4;
-	box-shadow: inset 0px 0px 15px #FFE5E5;
-	-moz-box-shadow: inset 0px 0px 15px #FFE5E5;
-	-webkit-box-shadow: inset 0px 0px 15px #FFE5E5;
+	box-shadow: inset 0px 0px 15px #353d36;
+	-moz-box-shadow: inset 0px 0px 15px #353d36;
+	-webkit-box-shadow: inset 0px 0px 15px #353d36;
 }
 .form-style-3 fieldset legend{
 	color: #FFA0C9;
