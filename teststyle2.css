@@ -817,7 +817,7 @@ body	{
 .form-style-3 label > span{
 	float: left;
 	width: 100px;
-	color: #F072A9;
+	color: #5f7759;
 	font-weight: bold;
 	font-size: 13px;
 	text-shadow: 1px 1px 1px #fff;
@@ -827,7 +827,7 @@ body	{
 	-webkit-border-radius: 10px;
 	-moz-border-radius: 10px;
 	margin: 0px 0px 10px 0px;
-	border: 1px solid #FFD2D2;
+	border: 1px solid #5f7759;
 	padding: 20px;
 	background: #FFF4F4;
 	box-shadow: inset 0px 0px 15px #353d36;
@@ -871,9 +871,9 @@ body	{
 	outline: none;
 	color: #F072A9;
 	padding: 5px 8px 5px 8px;
-	box-shadow: inset 1px 1px 4px #FFD5E7;
-	-moz-box-shadow: inset 1px 1px 4px #FFD5E7;
-	-webkit-box-shadow: inset 1px 1px 4px #FFD5E7;
+	box-shadow: inset 1px 1px 4px #5f7759;
+	-moz-box-shadow: inset 1px 1px 4px #5f7759;
+	-webkit-box-shadow: inset 1px 1px 4px #5f7759;
 	background: #FFEFF6;
 	width:50%;
 }
