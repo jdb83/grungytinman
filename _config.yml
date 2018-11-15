@@ -1,1 +1,9 @@
 theme: jekyll-theme-architect
+kiwiirc:
+   custom:
+      token: 3087b0899de5879c21147189d5cfd01b
+   widget:
+      channel: '#kiwiirc-default'
+      server:  irc.kiwiirc.com
+      port:    '+6697'
+      nick:    kiwi?
