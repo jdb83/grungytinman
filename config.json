@@ -1,0 +1,3 @@
+<script name="kiwiconfig">
+{"startupScreen": "customServer", "startupOptions": { "server": "irc.freenode.net", "port": 6697, "tls": true, "direct": false, "nick": "" }}
+</script>
