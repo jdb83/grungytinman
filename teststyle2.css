@@ -8,7 +8,7 @@ body
 	letter-spacing:	normal;
 	text-transform:	none;
 	font-family:	Verdana, Myriad Web, Syntax, sans-serif;
-	font-size-adjust:	.58;
+	font-size-adjust:	.58; position:relative;
 	}	
  ul.navbar {
  list-style-type: none;
