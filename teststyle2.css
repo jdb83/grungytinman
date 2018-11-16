@@ -11,7 +11,8 @@ body
 	font-size-adjust:	.58; position:relative;
 	}	
  ul.navbar {
- list-style-type: none;background-color:#C7F4C7;
+ list-style-type: none;
+    background-color:#C7F4C7;
     padding: 10;
     margin: 0 auto;
     position: fixed; 
