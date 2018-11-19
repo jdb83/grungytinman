@@ -17,7 +17,9 @@ body
     position: fixed; 
     top: 3em;
     left: 2em;
-    width: 25%;height 100%;overflow: auto; 
+    width: 25%;
+	 height: 100%;
+	 overflow: auto; 
  }
 
 p, blockquote, ul, ol, dl, dd, li, dir, menu	{	
