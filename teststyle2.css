@@ -13,11 +13,11 @@ body
  ul.navbar {
  list-style-type: none;
     padding: 10;
-    margin: 0 auto;
+    margin: 0;
     position: fixed; 
     top: 3em;
     left: 2em;
-    width: 25%;
+    width: 25%;height 100%;
  }
 
 p, blockquote, ul, ol, dl, dd, li, dir, menu	{	
